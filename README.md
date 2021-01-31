@@ -1,5 +1,5 @@
-# responsive-coffeeshop-website
+## Coffeeshop Website
 
-This is a website design concept for a local coffeeshop.
+This is a website design concept for a coffeeshop. 
 
-A demo can be viewed by visiting https://loganlaski.github.io/responsive-coffeeshop-website/
+Demo: https://loganlaski.github.io/responsive-coffeeshop-website/
